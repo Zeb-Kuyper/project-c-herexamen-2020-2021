@@ -1,0 +1,316 @@
+make.exe all -f "C:\Users\Kuype\C Projects\linked lists\project-c-herexamen-2020-2021\Makefile" --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for Windows32
+ 
+
+# Make data base, printed on Tue Aug 03 19:05:53 2021
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := c:/Users/Kuype/C Projects/linked lists/project-c-herexamen-2020-2021
+# default
+SHELL := sh.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+VBOX_MSI_INSTALL_PATH = D:\Program Files\Oracle\VirtualBox\
+# makefile (from `C:\Users\Kuype\C Projects\linked lists\project-c-herexamen-2020-2021\Makefile', line 5)
+CFLAGS =  -g -std=c99 -Wall -Werror
+# environment
+ONEDRIVE = D:\Pictures\OneDrive
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile (from `C:\Users\Kuype\C Projects\linked lists\project-c-herexamen-2020-2021\Makefile', line 1)
+MAKEFILE_LIST :=  C:\Users\Kuype\C Projects\linked lists\project-c-herexamen-2020-2021\Makefile
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+TMP = C:\Users\Kuype\AppData\Local\Temp
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-b76d51bb-adb1-4650-b6c8-644bee28f2fc-sock
+# environment
+VSCODE_CWD = C:\Users\Kuype\AppData\Local\Programs\Microsoft VS Code
+# environment
+PATH = C:\Program Files\AdoptOpenJDK\jdk-16.0.0.36-hotspot\bin;C:\Program Files\AdoptOpenJDK\jdk-11.0.10.9-hotspot\bin;C:\ProgramData\Oracle\Java\javapath;C:\CEdev\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Git\cmd;C:\Users\Kuype\AppData\Local\Microsoft\WindowsApps;C:\Users\Kuype\AppData\Local\GitHubDesktop\bin;C:\Users\Kuype\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\Kuype\AppData\Local\Programs\Microsoft VS Code\bin
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+USERPROFILE = C:\Users\Kuype
+# environment
+DASHLANE_DLL_DIR = C:\Users\Kuype\AppData\Roaming\Dashlane\6.1839.0.13410\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\Kuype\AppData\Roaming\Dashlane\6.1839.0.13410\ucrt;C:\Users\Kuype\AppData\Roaming\Dashlane\6.1839.0.13410\bin\Qt;C:\Users\Kuype\AppData\Roaming\Dashlane\6.1839.0.13410\ucrt;C:\Users\Kuype\AppData\Roaming\Dashlane\6.1839.0.13410\bin\Ssl
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+VSCODE_LOG_STACK = false
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives
+# automatic
+%F = $(notdir $%)
+# automatic
+*F = $(notdir $*)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_17268_XKQLTPELPJTEEKJY
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+COMPUTERNAME = LAPTOP-GQ68CANQ
+# environm 
+make.exe: *** No rule to make target `all'.  Stop.
+ 
+ent
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = Kuype
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\Kuype\AppData\Roaming\Code\CachedData\c3f126316369cd610563c75b1b1725e0679adfb3
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\LAPTOP-GQ68CANQ
+# environment
+ONEDRIVECONSUMER = D:\Pictures\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = LAPTOP-GQ68CANQ
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# default
+MAKE_VERSION := 3.81
+# makefile
+.DEFAULT_GOAL := opgave
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+LOCALAPPDATA = C:\Users\Kuype\AppData\Local
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# default
+.VARIABLES := 
+# environment
+CEDEV = C:\CEdev
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\e68f81cb3e4896f25d24026439e750b4-1.58.2-main-sock
+# environment
+HOMEPATH = \Users\Kuype
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+SYSTEMROOT = C:\WINDOWS
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\Kuype\AppData\Roaming
+# environment
+TEMP = C:\Users\Kuype\AppData\Local\Temp
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# default
+MAKEFILES := 
+# environment
+VSCODE_BROWSER_CODE_LOADING = bypassHeatCheck
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 8e0a
+# default
+.INCLUDE_DIRS = .
+# environment
+MAKELEVEL := 0
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 17268
+# environment
+USERDOMAIN_ROAMINGPROFILE = LAPTOP-GQ68CANQ
+# variable set hash-table stats:
+# Load=95/1024=9%, Rehash=0, Collisions=10/124=8%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# C:\ProgramData\Oracle\Java\javapath (key C:/ProgramData/Oracle/Java/javapath, mtime 1584819076): 5 files, no impossibilities.
+# D:\Program Files\MiKTeX 2.9\miktex\bin\x64\ (key D:/Program Files/MiKTeX 2.9/miktex/bin/x64/, mtime 1606223194): could not be opened.
+# C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR (key C:/Program Files/NVIDIA Corporation/NVIDIA NvDLISR, mtime 1572534873): 5 files, no impossibilities.
+# C:\Program Files\Intel\WiFi\bin\ (key C:/Program Files/Intel/WiFi/bin/, mtime 1579535855): could not be opened.
+# C:\Program Files\Common Files\Intel\WirelessCommon\ (key C:/Program Files/Common Files/Intel/WirelessCommon/, mtime 1579535854): could not be opened.
+# C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1572571314): could not be opened.
+# C:\WINDOWS\System32\Wbem (key C:/WINDOWS/System32/Wbem, mtime 1621129145): 174 files, no impossibilities.
+# . (key c:/Users/Kuype/C Projects/linked lists/project-c-herexamen-2020-2021, mtime 1628010236): 8 files, no impossibilities.
+# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common Files/Oracle/Java/javapath, mtime 1584819097): 5 files, no impossibilities.
+# C:\Users\Kuype\AppData\Local\Programs\MiKTeX\miktex\bin\x64\ (key C:/Users/Kuype/AppData/Local/Programs/MiKTeX/miktex/bin/x64/, mtime 1606054986): could not be opened.
+# C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1627996754): 8 files, no impossibilities.
+# C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common (key C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common, mtime 1526000971): 10 files, no impossibilities.
+# C:\Program Files\Intel\iCLS Client\ (key C:/Program Files/Intel/iCLS Client/, mtime 1526001663): could not be opened.
+# C:\Program Files\Intel\Intel(R) Management Engine Components\DAL (key C:/Program Files/Intel/Intel(R) Management Engine Components/DAL, mtime 1526001661): 4 files, no impossibilities.
+# C:\WINDOWS (key C:/WINDOWS, mtime 1627331265): 127 files, no impossibilities.
+# C:\CEdev\bin (key C:/CEdev/bin, mtime 1542955010): 17 files, no impossibilities.
+# C:\Program Files\AdoptOpenJDK\jdk-16.0.0.36-hotspot\bin (key C:/Program Files/AdoptOpenJDK/jdk-16.0.0.36-hotspot/bin, mtime 1617191481): 123 files, no impossibilities.
+# C:\Program Files\Intel\Intel(R) Management Engine Components\IPT (key C:/Program Files/Intel/Intel(R) Management Engine Components/IPT, mtime 1526001661): 5 files, no impossibilities.
+# C:\Windows (key C:/Windows, mtime 1627331265): 127 files, no impossibilities.
+# C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1621129145): 174 files, no impossibilities.
+# C:\Users\Kuype\AppData\Local\Microsoft\WindowsApps (key C:/Users/Kuype/AppData/Local/Microsoft/WindowsApps, mtime 1627334894): 20 files, no impossibilities.
+# C:\Program Files\AdoptOpenJDK\jdk-11.0.10.9-hotspot\bin (key C:/Program Files/AdoptOpenJDK/jdk-11.0.10.9-hotspot/bin, mtime 1617190158): 128 files, no impossibilities.
+# C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (key C:/WINDOWS/System32/WindowsPowerShell/v1.0/, mtime 1572571314): could not be opened.
+# C:\Users\Kuype\AppData\Local\GitHubDesktop\bin (key C:/Users/Kuype/AppData/Local/GitHubDesktop/bin, mtime 1605879915): 4 files, no impossibilities.
+# C:\Windows\system32 (key C:/Windows/system32, mtime 1627994297): 3155 files, no impossibilities.
+# C:\Program Files (x86)\Intel\iCLS Client\ (key C:/Program Files (x86)/Intel/iCLS Client/, mtime 1526001664): could not be opened.
+# C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL (key C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL, mtime 1526001661): 10 files, no impossibilities.
+# C:\Users\Kuype\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/Kuype/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1627993178): 4 files, no impossibilities.
+# C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT (key C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT, mtime 1526001661): 6 files, no impossibilities.
+# C:\WINDOWS\System32\OpenSSH\: could not be stat'd.
+# C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1627994297): 3155 files, no impossibilities.
+
+# 7274 files, no impossibilities in 31 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+all:
+#  Command-line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+opgave: opgave.c
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `C:\Users\Kuype\C Projects\linked lists\project-c-herexamen-2020-2021\Makefile', line 8):
+	gcc opgave.c $(CFLAGS) -o opgave.o
+	
+
+# Not a target:
+C:\Users\Kuype\C Projects\linked lists\project-c-herexamen-2020-2021\Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2021-08-03 15:41:51
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+opgave.c:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=6/1024=1%, Rehash=0, Collisions=0/18=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4018 / max = 4018 / min = 4018 / avg = 4018
+
+# Finished Make data base on Tue Aug 03 19:05:53 2021
+
+ 

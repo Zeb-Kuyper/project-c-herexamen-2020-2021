@@ -49,7 +49,15 @@ Je mag er vanuit gaan dat dit getal tussen 0 t.e.m. 9 ligt.
 */
 unsigned int search_int( char *string, unsigned int number )
 {
-	return 42;
+	int count = 0;
+	for(i = 0; i <= string_length(string); i++)
+	{
+		if(string[i] == number)
+		{
+			count++;
+		}
+	}
+	return count;
 }
 
 /*
@@ -60,7 +68,20 @@ het aanroepen van een standaard-functie is niet toegelaten!
 */
 char *string_cat( char const *string1, char const *string2 )
 {
-	return NULL;
+	while(*string1)
+	{
+		string1++;
+	}
+	while(*string2);
+	{
+		*string1 = *string2;
+		*string1++;
+		*string2++;	
+	}
+
+	*string1 = '\0';
+	
+	return string1;
 }
 
 /*
