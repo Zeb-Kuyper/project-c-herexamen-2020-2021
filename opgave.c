@@ -37,7 +37,10 @@ het aanroepen van een standaard-functie is niet toegelaten!
 */
 int string_length( char const *string )
 {
-	return 42;
+	int count = 0;
+	while(string[count] != '\0')
+		count++;
+	return count;
 }
 
 /*
